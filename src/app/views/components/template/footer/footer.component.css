@@ -1,0 +1,17 @@
+.footer {
+    height: 7%;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    color: rgb(158, 91, 91);
+    margin: 0;
+    font-size: 1rem;
+    border: 1px solid rgb(83, 59, 59);
+    padding: 0 8%;
+    border-radius: 20px;
+}
